@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppExitInfo</string>
+    <string name="crash_the_app">Crash the App</string>
+    <string name="crash_the_app_by_anr">App not responding</string>
+</resources>
